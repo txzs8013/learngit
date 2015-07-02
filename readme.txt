@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 branch --no-ff
 before bug  process
 before stash
+this is dev
